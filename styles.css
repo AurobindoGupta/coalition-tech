@@ -73,3 +73,17 @@
 #team .list-item{
     padding: 1rem;
 }
+#team .sec-team{
+    background-color: white;
+    width: 300px;
+    height: 200px;
+    text-align: center;
+    
+
+}
+table{
+    text-align: justify;
+}
+td{
+    padding: 10px;
+}
