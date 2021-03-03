@@ -1,3 +1,75 @@
-.pg1{
+   body#home {
+     background: url(/img/page1.png);
+     background-size: cover;
+     background-repeat: no-repeat;
+ }
+ body#history{
+    background: url(/img/page2.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+ }
+ body#team{
+    background: url(/img/page3.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+ }
+ 
+ 
+ #home a{
+     color:  rgba(254, 254, 255, 255);
+ }
+ #history a{
+    color: rgba(65, 79, 107, 255);
+ }
+
+ .pg1 {
+     width: ;
+     height: 50%;
+
+     background: url(/img/page1.png);
+     background-size: cover;
+
+ }
+
+ .navigation .nav-pills li {
+     display: inline-block;
+ }
+
+ .navigation .nav-pills {
+     text-align: right;
+
+
+ }
+
+ .list-item {
+     color: white
+ }
+
+ .navigation ol {
+     padding-inline-start: 0px;
+     margin-block-start: 0em;
+     margin-block-end: 0em;
+ }
+
+ .navigation {
+     /* font-family: ﻿Lato-BlackItalic, ﻿AdobeInvisFont, ﻿MyriadPro-Regular; */
+     font-size: 12pt;
+     text-align: left;
+     /*  */
+
+ }
+ .navigation .hero-img{
+     float: left;
+ }
+ #team .navigation{
+     background-color:rgba(65, 79, 107, 255);
+ }
+ #team .navigation .nav-pills {
+    text-align: left;
     
+
+
+}
+#team .list-item{
+    padding: 1rem;
 }
