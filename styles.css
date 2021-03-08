@@ -5,8 +5,9 @@
  }
  body#history{
     background: url(/img/page2.png);
-    background-size: cover;
+    background-size: 100% 100%;
     background-repeat: no-repeat;
+    margin: 0px;
  }
  body#team{
     background: url(/img/page3.png);
@@ -86,4 +87,16 @@ table{
 }
 td{
     padding: 10px;
+}
+#history .nav-pills{
+    background-color: white;
+
+}
+#history .sec-history{
+    /* background-color: white; */
+    width: 800px;
+    height: 100px;
+    color: white;
+    padding: 3rem 15rem;
+    
 }
